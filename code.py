@@ -8,7 +8,6 @@ from datetime import datetime
 
 """
 
-Created on April 2023
 @author: Rohullah Najibi
 Developed for reading and writing nest thermostat attributes
 
